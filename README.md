@@ -99,7 +99,7 @@ This project analyzes patient data to predict the presence and severity of heart
 
 ## 👤 Author
 
-Semester Project - Machine Learning Classification
+Tarik Škaljić
 
 ## 📄 License
 
